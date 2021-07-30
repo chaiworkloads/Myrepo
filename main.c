@@ -2,8 +2,7 @@ psecodo code
 {
   Initial function()
 }
-Initial function 
-
+Initial function
 {
-	// Sample code
+	Hello this is feature 1 update from Dev1 Feature 
   }
